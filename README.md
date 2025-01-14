@@ -50,6 +50,7 @@ Knjižnica uporablja Apache 2.0 licenco:
 Predpogoj za uporabo retrofit je dodatek ustreznih dependency-jev v gradle ter dovoljenje za uporabo interent a v AndroidManifest.xml
 
 <img width="332" alt="Posnetek zaslona 2025-01-14 211401" src="https://github.com/user-attachments/assets/36845eeb-2ade-4329-b3a2-d5147ff6375b" />
+
 <img width="431" alt="Posnetek zaslona 2025-01-14 211317" src="https://github.com/user-attachments/assets/5c1e2568-3adc-4d2b-965f-60a9f84cc490" />
 
 
@@ -64,6 +65,7 @@ Ustvarimo Retrofit objekt preko katerega bomo klicali metode oz. pošiljali poiz
 Pomožni razredi za hranjenje podatkov o vremenu iz Open-Meteo API
 
 <img width="242" alt="Posnetek zaslona 2025-01-14 211601" src="https://github.com/user-attachments/assets/f7c4c064-5ac9-400a-bf82-c39c563a5f89" />
+
 <img width="162" alt="Posnetek zaslona 2025-01-14 211633" src="https://github.com/user-attachments/assets/1201a962-313e-43f4-aec8-7fbd6833a809" />
 
 V MainActivity si lahko zapišemo funkcijo, ki nam vrne objekt, ki implementira prej definiran vmesnik ter kot osnovo za serializacijo/deserializacijo uporablja naš preddefiniran razred za hrambo podatkov.
@@ -81,10 +83,7 @@ V MainActivity-ju v create metodi zgolj pokličemo našo *fetchAndDisplayWeather
 
 Izris v aplikaciji:
 
-<img width="137" alt="Posnetek zaslona 2025-01-14 212005" src="https://github.com/user-attachments/assets/71f698d7-bf9d-4f4e-aef0-910688bf35c3" />
-
-
-
+<img width="250" alt="Posnetek zaslona 2025-01-14 212005" src="https://github.com/user-attachments/assets/71f698d7-bf9d-4f4e-aef0-910688bf35c3" />
 
 
 ## Integracija v projektu
