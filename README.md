@@ -1,4 +1,4 @@
-# RetrofitDemo
+# Retrofit predstavitev
 
 ## Retrofit
 
@@ -20,7 +20,7 @@ Za retrofit sem se odločil predvsem zaradi njegove preprostosti za uporabo, vis
 
 - Odvisna od OkHttp, kar pomeni večji paket za osnovno implementacijo.
 - Zahteva dodatne knjižnice za delo z JSON-om (npr. Gson ali Moshi).
-- Manj primerna za preproste projekte, ki ne potrebujejo kompleksnih zahtev.
+- Manj nadzora nad poizvedbami, zaradi višjega nivoja abstrakcije
 
 ## 📊 Statistika repozitorija
 - 43.2k zvezdic
@@ -39,9 +39,9 @@ Knjižnica uporablja Apache 2.0 licenco:
 - Imamo pravico do spreminjanja izvorne kode in ustvarjanja izpeljanih del, prav tako pa jih lahko distribuiramo naprej. V kolikor to storimo, moramo vključiti izvorno obvestilo o avtorstvu in licenco.
 - Brez garancij: Program, ki je pod to licenco, se distribuira brez garancij ali jamstev. To pomeni, da razvijalci in nosilci avtorskih pravic niso odgovorni za morebitno škodo ali težave, ki nastanejo zaradi uporabe programske opreme.
 
-(Več o licenci) [https://opensource.org/license/apache-2-0]
+[Več o licenci](https://opensource.org/license/apache-2-0)
 
-## Primer uporabe
+## 🔧 Primer uporabe
 
 ### Prikaz vremena za 7 dni z uporabo Open-Meteo API
 
@@ -86,7 +86,7 @@ Izris v aplikaciji:
 <img width="250" alt="Posnetek zaslona 2025-01-14 212005" src="https://github.com/user-attachments/assets/71f698d7-bf9d-4f4e-aef0-910688bf35c3" />
 
 
-## Integracija v projektu
+## 📲 Integracija v projektu
 
 Retrofit smo v projektu uporabili pri intergraciji PORA z UVRVRV. Izdelali smo 2 funkcionalnosti: 
 - slikanje sadja in ugotavljanje ali je sveže ter katero je
@@ -94,30 +94,33 @@ Retrofit smo v projektu uporabili pri intergraciji PORA z UVRVRV. Izdelali smo 2
 
 V obeh primerih se na Azure strežnik pošlje slika, iz katere se razberejo informacije.
 
-Definiran vmesnik za pošiljanje zahtevkov na Azure, kjer imamo skripti izdelani pri predmetu *Uvod v računalniški vid in razpoznavanje vzorcev* :
+Definiran vmesnik za pošiljanje zahtevkov na Azure, kjer imamo skripti izdelani pri predmetu *Uvod v računalniški vid in razpoznavanje vzorcev*
+<br>
 <img width="429" alt="image" src="https://github.com/user-attachments/assets/d29268fc-d720-4de4-93ac-250d8dba8690" />
-
+<br>
 Definiranje objekta za retrofit
+<br>
 <img width="363" alt="image" src="https://github.com/user-attachments/assets/cf55ebd3-4d8e-49b5-96fc-b1e8f6a7a768" />
+<br>
 
 Funkcija za izvajanje dejanskih klicov na Azure:
 
 1. del funkcije: razpoznavalnik svežega sadja
-
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a71acd80-d20b-429d-a1bb-88493dc3f971" />
+<br>
 
 2. del funkcije: razpoznavalnik črtnih kod
-
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/fbae0f67-57a5-4887-bdae-f718f7959cb3" />
 
-Zgledi poizvedb v aplikaciji:
-
+### Zgledi poizvedb v aplikaciji:
+<br>
 <img width="400" alt="Posnetek zaslona 2025-01-14 233126" src="https://github.com/user-attachments/assets/8a8bdd27-cbd5-4d29-af9d-a604fbad60cb" />
 <br>
 <img width="400" alt="Posnetek zaslona 2025-01-14 233108" src="https://github.com/user-attachments/assets/0d877ed1-6ecb-48d3-bf11-04dcc2a47e76" />
 <br>
+<br>
 <img width="800" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
-
+<br>
 
 
 
