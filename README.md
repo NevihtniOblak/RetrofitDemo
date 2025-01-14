@@ -112,8 +112,9 @@ Funkcija za izvajanje dejanskih klicov na Azure:
 
 Zgledi poizvedb v aplikaciji:
 
-![Screenshot_20250114_225339_TuringComplete](https://github.com/user-attachments/assets/7277012f-87dc-4316-92f0-88e67598d7af)
-![Screenshot_20250114_230401_TuringComplete](https://github.com/user-attachments/assets/2da140c9-8e44-476e-841e-1808bf897fcc)
+<img width="136" alt="Posnetek zaslona 2025-01-14 233126" src="https://github.com/user-attachments/assets/8a8bdd27-cbd5-4d29-af9d-a604fbad60cb" />
+<img width="141" alt="Posnetek zaslona 2025-01-14 233108" src="https://github.com/user-attachments/assets/0d877ed1-6ecb-48d3-bf11-04dcc2a47e76" />
+
 <img width="646" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
 
 
