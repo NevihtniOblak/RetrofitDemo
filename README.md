@@ -112,11 +112,11 @@ Funkcija za izvajanje dejanskih klicov na Azure:
 
 Zgledi poizvedb v aplikaciji:
 
-<img width="500" alt="Posnetek zaslona 2025-01-14 233126" src="https://github.com/user-attachments/assets/8a8bdd27-cbd5-4d29-af9d-a604fbad60cb" />
-
-<img width="500" alt="Posnetek zaslona 2025-01-14 233108" src="https://github.com/user-attachments/assets/0d877ed1-6ecb-48d3-bf11-04dcc2a47e76" />
-
-<img width="646" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
+<img width="400" alt="Posnetek zaslona 2025-01-14 233126" src="https://github.com/user-attachments/assets/8a8bdd27-cbd5-4d29-af9d-a604fbad60cb" />
+<br>
+<img width="400" alt="Posnetek zaslona 2025-01-14 233108" src="https://github.com/user-attachments/assets/0d877ed1-6ecb-48d3-bf11-04dcc2a47e76" />
+<br>
+<img width="600" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
 
 
 
