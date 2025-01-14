@@ -88,6 +88,36 @@ Izris v aplikaciji:
 
 ## Integracija v projektu
 
+Retrofit smo v projektu uporabili pri intergraciji PORA z UVRVRV. Izdelali smo 2 funkcionalnosti: 
+- slikanje sadja in ugotavljanje ali je sveže ter katero je
+- skeniranje barcode-a za ugotavljanje izdelka
+
+V obeh primerih se na Azure strežnik pošlje slika, iz katere se razberejo informacije.
+
+Definiran vmesnik za pošiljanje zahtevkov na Azure, kjer imamo skripti izdelani pri predmetu *Uvod v računalniški vid in razpoznavanje vzorcev* :
+<img width="429" alt="image" src="https://github.com/user-attachments/assets/d29268fc-d720-4de4-93ac-250d8dba8690" />
+
+Definiranje objekta za retrofit
+<img width="363" alt="image" src="https://github.com/user-attachments/assets/cf55ebd3-4d8e-49b5-96fc-b1e8f6a7a768" />
+
+Funkcija za izvajanje dejanskih klicov na Azure:
+
+1. del funkcije: razpoznavalnik svežega sadja
+
+<img width="487" alt="image" src="https://github.com/user-attachments/assets/a71acd80-d20b-429d-a1bb-88493dc3f971" />
+
+2. del funkcije: razpoznavalnik črtnih kod
+
+<img width="443" alt="image" src="https://github.com/user-attachments/assets/fbae0f67-57a5-4887-bdae-f718f7959cb3" />
+
+Zgledi poizvedb v aplikaciji:
+
+![Screenshot_20250114_225339_TuringComplete](https://github.com/user-attachments/assets/7277012f-87dc-4316-92f0-88e67598d7af)
+![Screenshot_20250114_230401_TuringComplete](https://github.com/user-attachments/assets/2da140c9-8e44-476e-841e-1808bf897fcc)
+<img width="646" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
+
+
+
 
 
 
