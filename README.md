@@ -104,11 +104,11 @@ Funkcija za izvajanje dejanskih klicov na Azure:
 
 1. del funkcije: razpoznavalnik svežega sadja
 
-<img width="487" alt="image" src="https://github.com/user-attachments/assets/a71acd80-d20b-429d-a1bb-88493dc3f971" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/a71acd80-d20b-429d-a1bb-88493dc3f971" />
 
 2. del funkcije: razpoznavalnik črtnih kod
 
-<img width="443" alt="image" src="https://github.com/user-attachments/assets/fbae0f67-57a5-4887-bdae-f718f7959cb3" />
+<img width="500" alt="image" src="https://github.com/user-attachments/assets/fbae0f67-57a5-4887-bdae-f718f7959cb3" />
 
 Zgledi poizvedb v aplikaciji:
 
@@ -116,7 +116,7 @@ Zgledi poizvedb v aplikaciji:
 <br>
 <img width="400" alt="Posnetek zaslona 2025-01-14 233108" src="https://github.com/user-attachments/assets/0d877ed1-6ecb-48d3-bf11-04dcc2a47e76" />
 <br>
-<img width="600" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
+<img width="800" alt="Posnetek zaslona 2025-01-14 230057" src="https://github.com/user-attachments/assets/b84e2c8e-1859-4f52-91c4-c34453cbd370" />
 
 
 
