@@ -47,7 +47,7 @@ Knjižnica uporablja Apache 2.0 licenco:
 
 <img width="805" alt="Posnetek zaslona 2025-01-14 211814" src="https://github.com/user-attachments/assets/89d356b2-74ef-4f38-99b8-de0272ed6b41" />
 
-Predpogoj za uporabo retrofit je dodatek ustreznih dependency-jev v gradle ter dovoljenje za uporabo interent a v AndroidManifest.xml
+Predpogoj za uporabo retrofit je dodatek ustreznih dependency-jev v gradle ter dovoljenje za uporabo interneta v AndroidManifest.xml
 
 <img width="450" alt="Posnetek zaslona 2025-01-14 211401" src="https://github.com/user-attachments/assets/36845eeb-2ade-4329-b3a2-d5147ff6375b" />
 
